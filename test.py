@@ -8,3 +8,5 @@ for x in range(1, 10):
 
 for x in range(1, 20):
     print_text("es hat geklaaaapt ....😀")
+
+# Hier kommt noch ein wenig Kommentar
